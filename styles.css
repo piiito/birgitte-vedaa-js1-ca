@@ -105,3 +105,8 @@ time {
 a {
   text-decoration: none;
 }
+
+nav a {
+  color: blueviolet;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
